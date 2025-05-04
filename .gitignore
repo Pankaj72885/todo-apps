@@ -1,0 +1,41 @@
+# Bun.js
+.bun/
+bun.lock
+
+# Vite
+/dist
+/.vite
+
+# Node modules
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Environment files
+.env
+.env.*
+
+# Editor directories and files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Mac system files
+.DS_Store
+
+# Coverage
+coverage/
+
+# Misc
+*.local
+*.log
